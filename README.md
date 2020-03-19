@@ -2,7 +2,7 @@
 
 ### Abstract
 *What's New?* is one page application that allows you to browse news from a variety of categories and sources!  
-**This app is my first React project at the Turing School of Software & Design.
+**This app is my first React project at the Turing School of Software & Design.**
 
 ## Screenshot
 [![Screen-Shot-2020-03-19-at-4-54-44-PM.png](https://i.postimg.cc/dV9njFND/Screen-Shot-2020-03-19-at-4-54-44-PM.png)](https://postimg.cc/pmpDPwHt)
