@@ -1,0 +1,14 @@
+article {
+  background: white;
+  border-radius: .3em;
+  padding: 1em;
+  margin: 3em;
+  max-width: 22%;
+  text-align: left;
+  /* display: inline; */
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 1em;
+}
