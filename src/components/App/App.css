@@ -4,11 +4,19 @@
   padding: 0;
 }
 
-.app {
+main {
   display: flex;
   background: #141527;
   height: 100vh;
-  text-align: center;
   width: 100%;
   overflow: scroll;
+  padding-left: 11em;
+}
+
+header {
+  padding: 1em;
+  background: #C76B02;
+  color: white;
+  position: fixed;
+  width: 100%;
 }
